@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+print("addition: " + str(a + b))
+print("subraction: " + str(a - b))
+print("multiplication: " + str(a * b))
+print("division: " + str(a / b))
